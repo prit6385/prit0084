@@ -1,0 +1,11 @@
+#pr12{
+    background-image: url("https://thumbs.dreamstime.com/b/temple-ramdev-pir-its-name-parbadham-located-state-gujarat-india-183023036.jpg");
+    height: 1000px;
+    background-position: right;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+    
